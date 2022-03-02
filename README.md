@@ -7,3 +7,6 @@
 6) Simulate transmission of ping messages over a network topology and capture the round trip time
 7) Simulate a 6 node network to implement dynamic routing algorithm and verify its functionality
 8) Implement a method of cyclic data transmittion using UDP protocol 
+9) Implement using C, the error detecting code CRC for 16 bits
+10) Implement using C, Hamming Code generation for error detection and correction
+12) Simulate a 7-node network to verify Link State routing protocol 
